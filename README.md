@@ -77,15 +77,8 @@ Add the following variables:
 
 ```env
 PORT=5000
-
 DATABASE_URL=postgresql://user:password@localhost:5433/prisma
-
 JWT_SECRET=your_secret_key
-
-<img width="1113" height="629" alt="Screenshot 2026-06-21 220423" src="https://github.com/user-attachments/assets/08f567cb-dd2f-4f6d-986c-1ee0d51deabe" /><img width="1109" height="632" alt="Screenshot 2026-06-21 220502" src="https://github.com/user-attachments/assets/4901f6a5-a9e0-4b57-9580-31fc5c7ca615" />
-<img width="1110" height="634" alt="Screenshot 2026-06-21 220540" src="https://github.com/user-attachments/assets/9dc6990b-327e-4ffd-b02e-037f8918fd23" />
-<img width="1106" height="626" alt="Screenshot 2026-06-21 220641" src="https://github.com/user-attachments/assets/0f8af9af-baea-4e02-9c3b-613fd1dfb9ee" />
-
 ```
 
 
@@ -198,4 +191,6 @@ npm run dev
 
 
 # 📸 Screenshots
-
+<img width="1113" height="629" alt="Screenshot 2026-06-21 220423" src="https://github.com/user-attachments/assets/08f567cb-dd2f-4f6d-986c-1ee0d51deabe" /><img width="1109" height="632" alt="Screenshot 2026-06-21 220502" src="https://github.com/user-attachments/assets/4901f6a5-a9e0-4b57-9580-31fc5c7ca615" />
+<img width="1110" height="634" alt="Screenshot 2026-06-21 220540" src="https://github.com/user-attachments/assets/9dc6990b-327e-4ffd-b02e-037f8918fd23" />
+<img width="1106" height="626" alt="Screenshot 2026-06-21 220641" src="https://github.com/user-attachments/assets/0f8af9af-baea-4e02-9c3b-613fd1dfb9ee" />
