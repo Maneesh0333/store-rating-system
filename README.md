@@ -2,7 +2,6 @@
 
 A full-stack web application that allows users to discover stores, submit ratings, and helps store owners monitor customer feedback through dedicated dashboards.
 
----
 
 # ✨ Features
 
@@ -35,7 +34,6 @@ A full-stack web application that allows users to discover stores, submit rating
 * View all users
 * Role-based access management
 
----
 
 # 🚀 Tech Stack
 
@@ -61,8 +59,6 @@ A full-stack web application that allows users to discover stores, submit rating
 * Prisma ORM
 * JWT Authentication
 * bcrypt
-
----
 
 # 🔐 Environment Variables
 
