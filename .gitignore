@@ -1,0 +1,30 @@
+# Dependencies
+backend/node_modules
+frontend/node_modules
+
+# Environment files
+backend/.env
+frontend/.env
+
+# Build files
+backend/dist
+frontend/dist
+frontend/build
+
+# Logs
+*.log
+npm-debug.log*
+
+# Vite
+frontend/.vite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE
+.vscode
+.idea
+
+# Docker volume data
+postgres_data
