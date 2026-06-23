@@ -148,7 +148,7 @@ store-rating/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/store-rating-system.git
+git clone https://github.com/Maneesh0333/store-rating-system.git
 
 cd store-rating-system
 ```
